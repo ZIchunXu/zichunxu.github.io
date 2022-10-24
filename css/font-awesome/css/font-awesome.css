@@ -616,6 +616,12 @@
 .fa-github:before {
   content: "\f09b";
 }
+.fa-gitlab:before {
+  content: "\f09b";
+}
+.fa-instagram:before {
+  content: "\f09b";
+}
 .fa-unlock:before {
   content: "\f09c";
 }
